@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Звільнити цю відьму — EPUB</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, serif;
+      background: #1a1a2e;
+      color: #e0d9c8;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: #c8a96e;
+      letter-spacing: 0.03em;
+      margin-bottom: 0.4rem;
+    }
+
+    header p {
+      font-size: 0.95rem;
+      color: #9090a0;
+      font-family: sans-serif;
+    }
+
+    .volumes {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1.2rem;
+      width: 100%;
+      max-width: 860px;
+    }
+
+    .card {
+      background: #16213e;
+      border: 1px solid #2a2a4a;
+      border-radius: 10px;
+      padding: 1.4rem 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+      transition: border-color 0.2s;
+    }
+
+    .card:hover { border-color: #c8a96e; }
+
+    .card-title {
+      font-size: 1.05rem;
+      color: #c8a96e;
+    }
+
+    .card-meta {
+      font-size: 0.82rem;
+      color: #7878a0;
+      font-family: sans-serif;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: auto;
+      padding: 0.55rem 1rem;
+      background: #c8a96e;
+      color: #1a1a2e;
+      text-decoration: none;
+      border-radius: 6px;
+      font-family: sans-serif;
+      font-size: 0.88rem;
+      font-weight: bold;
+      text-align: center;
+      transition: background 0.2s;
+    }
+
+    .btn:hover { background: #e0c080; }
+
+    footer {
+      margin-top: 3rem;
+      font-family: sans-serif;
+      font-size: 0.8rem;
+      color: #44445a;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Звільнити цю відьму</h1>
+    <p>Особистий архів EPUB-файлів · 7 томів · 700 розділів</p>
+  </header>
+
+  <div class="volumes">
+    <div class="card">
+      <div class="card-title">Том 1</div>
+      <div class="card-meta">Розділи 1–100 · 611 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_1.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 2</div>
+      <div class="card-meta">Розділи 101–200 · 656 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_2.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 3</div>
+      <div class="card-meta">Розділи 201–300 · 644 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_3.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 4</div>
+      <div class="card-meta">Розділи 301–400 · 609 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_4.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 5</div>
+      <div class="card-meta">Розділи 401–500 · 555 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_5.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 6</div>
+      <div class="card-meta">Розділи 501–600 · 571 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_6.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+    <div class="card">
+      <div class="card-title">Том 7</div>
+      <div class="card-meta">Розділи 601–700 · 182 КБ</div>
+      <a class="btn" href="zvilnyty_vidmu_vol_7.epub" download>⬇ Завантажити EPUB</a>
+    </div>
+  </div>
+
+  <footer>Згенеровано автоматично · для особистого використання</footer>
+</body>
+</html>
