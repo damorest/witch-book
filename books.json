@@ -57,12 +57,12 @@
   {
     "slug": "krysalis",
     "title": "Крисаліс",
-    "chapters": 3,
+    "chapters": 4,
     "epub_files": [
       {
         "name": "krysalis_vol_1.epub",
-        "label": "Том (розд. 1–3)",
-        "size_kb": 39,
+        "label": "Том (розд. 1–4)",
+        "size_kb": 44,
         "url": "https://damorest.github.io/witch-book/books/krysalis/krysalis_vol_1.epub"
       }
     ]
