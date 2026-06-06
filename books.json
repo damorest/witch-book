@@ -53,5 +53,18 @@
         "url": "https://damorest.github.io/witch-book/zvilnyty_vidmu_vol_7.epub"
       }
     ]
+  },
+  {
+    "slug": "test",
+    "title": "Тест",
+    "chapters": 5,
+    "epub_files": [
+      {
+        "name": "test_vol_1.epub",
+        "label": "Том (розд. 1–5)",
+        "size_kb": 54,
+        "url": "https://damorest.github.io/witch-book/books/test/test_vol_1.epub"
+      }
+    ]
   }
 ]
