@@ -53,18 +53,5 @@
         "url": "https://damorest.github.io/witch-book/zvilnyty_vidmu_vol_7.epub"
       }
     ]
-  },
-  {
-    "slug": "krysalis",
-    "title": "Крисаліс",
-    "chapters": 4,
-    "epub_files": [
-      {
-        "name": "krysalis_vol_1.epub",
-        "label": "Том (розд. 1–4)",
-        "size_kb": 44,
-        "url": "https://damorest.github.io/witch-book/books/krysalis/krysalis_vol_1.epub"
-      }
-    ]
   }
 ]
