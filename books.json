@@ -57,12 +57,12 @@
   {
     "slug": "test",
     "title": "Тест",
-    "chapters": 5,
+    "chapters": 2,
     "epub_files": [
       {
         "name": "test_vol_1.epub",
-        "label": "Том (розд. 1–5)",
-        "size_kb": 54,
+        "label": "Том (розд. 1–2)",
+        "size_kb": 37,
         "url": "https://damorest.github.io/witch-book/books/test/test_vol_1.epub"
       }
     ]
