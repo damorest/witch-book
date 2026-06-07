@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "slug": "zvilnyty-tsiu-vidmu",
+    "title": "Звільнити цю відьму",
+    "chapters": 695,
+    "epub_files": [
+      {
+        "name": "zvilnyty-tsiu-vidmu_full.epub",
+        "label": "Повна книга (розд. 1–695)",
+        "size_kb": 3731,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_full.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_1.epub",
+        "label": "Том (розд. 1–100)",
+        "size_kb": 571,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_1.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_2.epub",
+        "label": "Том (розд. 101–200)",
+        "size_kb": 603,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_2.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_3.epub",
+        "label": "Том (розд. 201–300)",
+        "size_kb": 599,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_3.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_4.epub",
+        "label": "Том (розд. 301–400)",
+        "size_kb": 558,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_4.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_5.epub",
+        "label": "Том (розд. 401–500)",
+        "size_kb": 512,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_5.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_6.epub",
+        "label": "Том (розд. 501–600)",
+        "size_kb": 529,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_6.epub"
+      },
+      {
+        "name": "zvilnyty-tsiu-vidmu_vol_7.epub",
+        "label": "Том (розд. 601–695)",
+        "size_kb": 506,
+        "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_7.epub"
+      }
+    ]
+  }
+]
