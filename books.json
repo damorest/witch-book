@@ -53,5 +53,18 @@
         "url": "https://damorest.github.io/witch-book/books/zvilnyty-tsiu-vidmu/zvilnyty-tsiu-vidmu_vol_7.epub"
       }
     ]
+  },
+  {
+    "slug": "nevzhe-ta-vchytelka-demon-stane-moieiu-sestroiu",
+    "title": "Невже та вчителька-демон стане моєю сестрою",
+    "chapters": 7,
+    "epub_files": [
+      {
+        "name": "nevzhe-ta-vchytelka-demon-stane-moieiu-sestroiu_vol_1.epub",
+        "label": "Том (розд. 1–7)",
+        "size_kb": 139,
+        "url": "https://damorest.github.io/witch-book/books/nevzhe-ta-vchytelka-demon-stane-moieiu-sestroiu/nevzhe-ta-vchytelka-demon-stane-moieiu-sestroiu_vol_1.epub"
+      }
+    ]
   }
 ]
